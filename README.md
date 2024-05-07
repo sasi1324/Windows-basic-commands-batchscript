@@ -52,6 +52,7 @@ List the contents of the "MyLab" directory.
 ## COMMAND AND OUTPUT
 
 dir %userprofile%\Desktop\MyLa
+
 ![image](https://github.com/23014107/Windows-basic-commands-batchscript/assets/151625620/eb00c02e-a2a2-4bed-9590-02f4effe3c34)
 
 Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
