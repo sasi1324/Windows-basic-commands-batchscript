@@ -1,10 +1,6 @@
 # Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
 
-NAME:RAMYA.P
-
-REGISTER NUMBER: 212223240137
-
 DEPARTMENT: AIML
 
 # AIM:
@@ -97,4 +93,3 @@ echo Backup and deletion completed successfully!
 
 # RESULT:
 The commands/batch files are executed successfully.
-
